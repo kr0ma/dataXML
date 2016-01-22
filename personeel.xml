@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Onze personeelsleden -->
+<personeel>
+	<afdeling afdnr="1" verdieping="0">
+		<naam>Administratie</naam>
+		<werknemer nr="1">
+			<naam>Marc</naam>
+			<geslacht>M</geslacht>
+			<indienst>1966-10-10</indienst>
+			<wedde>2000.2</wedde>
+		</werknemer>
+		<werknemer nr="2">
+			<naam>Gabriel</naam>
+			<geslacht>M</geslacht>
+			<indienst>1974-03-01</indienst>
+			<wedde>2100.1</wedde>
+		</werknemer>
+	</afdeling>
+	<afdeling afdnr="2" verdieping="0">
+		<naam>Boekhouding</naam>
+		<werknemer nr="3">
+			<naam>Roos</naam>
+			<geslacht>V</geslacht>
+			<indienst>1980-05-15</indienst>
+			<wedde>1900.5</wedde>
+		</werknemer>
+	</afdeling>
+</personeel>

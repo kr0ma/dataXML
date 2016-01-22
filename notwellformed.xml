@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<koersen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="koersen.xsd">
+	<datum>2013-12-12</datum>
+	<munt code="USD" koers="1.1" />
+</koersen>

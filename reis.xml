@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<reis xmlns:vl="www.aircraftcarriers.com/travels" xmlns:ho="www.hotels.com/bookings">
+	<vl:firma>virgin express</vl:firma>
+	<vl:datum>2004-01-20</vl:datum>
+	<vl:luchthaven>Brussel</vl:luchthaven>
+	<ho:hotel>Emirhan</ho:hotel>
+	<ho:datum>2004-01-20</ho:datum>
+	<ho:aantaldagen>10</ho:aantaldagen>
+</reis>

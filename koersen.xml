@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<koersen xmlns="http://www.vdab.be/koersen"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.vdab.be/koersen koersen.xsd">
+    <datum>2016-01-05</datum>
+    <munt code="XXX" koers="1.15"/>
+    <munt code="USD" koers="1.2"/>
+</koersen>

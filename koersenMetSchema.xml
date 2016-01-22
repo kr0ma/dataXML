@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<koersen xmlns="http://www.vdab.be/koersen" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.vdab.be/koersen koersen.xsd">
+	<datum>2013-12-12</datum>
+	<munt code="USD" koers="1.1" />
+	<munt code="ZAR" koers="1.2" />
+	<munt code="X" koers="1.3" />
+	<munt code="XXX" koers="-1" />
+	<munt />
+</koersen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<werknemer id="1" xsi:schemaLocation="http://www.vdab.be/werknemer werknemer.xsd" xmlns="http://www.vdab.be/werknemer" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <naam>
+        <familienaam>Dalton</familienaam>
+        <voornaam>Joe</voornaam>
+        <bijnamen>
+            <bijnaam>The Boss</bijnaam>
+            <bijnaam>Heatedly</bijnaam>
+        </bijnamen>
+    </naam>
+</werknemer>
